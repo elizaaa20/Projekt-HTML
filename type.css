@@ -1,0 +1,19 @@
+#logo
+{
+	text-decoration: underline;
+}
+#footer
+{
+	color: white;
+	background-color: red;
+}
+#box
+{
+	font-family: "Roboto", sans-serif;
+    font-size: 25px;
+	text-align:center;
+	text-transform: capitalize;
+	text-indent: 10px;
+	word-spacing: 10px;
+	white-space: normal;
+}
